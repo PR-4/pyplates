@@ -1,2 +1,2 @@
 # pyplates
-Paleobathimetry and paleocoordinates reconstruction for pythonic users
+Paleobathimetry and paleocoordinates reconstructions for pythonic users
