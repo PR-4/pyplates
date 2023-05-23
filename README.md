@@ -1,2 +1,2 @@
-# pygplates
-Rotational globa model for python users
+# pyplates
+Paleobathimetry and paleocoordinates reconstruction for pythonic users
